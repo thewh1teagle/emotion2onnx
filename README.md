@@ -33,8 +33,8 @@ uv init -p 3.12
 uv add emotion2onnx soundfile
 ```
 
-4. Paste the contents of [`examples/save.py`](https://github.com/thewh1teagle/kokoro-onnx/blob/main/examples/save.py) in `hello.py`
-5. Download the files [`emotion2vec.onnx`]() and place it in the same directory.
+4. Paste the contents of [`examples/usage.py`](examples/usage.py) in `hello.py`
+5. Download the files [`emotion2vec.onnx`](https://github.com/thewh1teagle/emotion2onnx/releases/download/model-files/emotion2vec.onnx) and place it in the same directory.
 6. Run
 
 ```console

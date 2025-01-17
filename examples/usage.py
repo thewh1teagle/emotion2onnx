@@ -1,5 +1,5 @@
 """
-wget https://github.com/thewh1teagle/vibe/raw/refs/heads/main/samples/short.wav
+wget https://github.com/thewh1teagle/emotion2onnx/releases/download/model-files/emotion2vec.onnx
 uv run examples/usage.py
 """
 from emotion2onnx import EmotionToOnnx
